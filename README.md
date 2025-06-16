@@ -6,7 +6,7 @@ profile README to introduce yourself on GitHub.
 ## About Me
 - 🚀 Currently exploring open source projects
 - 🌿 Learning new programming languages
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 🔗 Connect with me on [Telegram](https://t.me/Bishnoi_botz))
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
